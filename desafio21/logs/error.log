@@ -1,0 +1,14 @@
+{"level":"error","message":"Error al registrar usuario. MongoServerError: user is not allowed to do action [insert] on [ecomerceFinal.users]"}
+{"level":"error","message":"Error al enviar el email: Error: No recipients defined"}
+{"level":"error","message":"Error al registrar usuario. MongoServerError: user is not allowed to do action [insert] on [ecomerceFinal.users]"}
+{"level":"error","message":"Error al enviar el email: Error: No recipients defined"}
+{"level":"error","message":"Error al enviar el email: Error: No recipients defined"}
+{"level":"error","message":"Error al enviar el email: Error: No recipients defined"}
+{"level":"error","message":"error al buscar producto en la db . CastError: Cast to ObjectId failed for value \"libro.jps\" (type string) at path \"_id\" for model \"products\""}
+{"level":"error","message":"error al buscar producto en la db . CastError: Cast to ObjectId failed for value \"libro.jps\" (type string) at path \"_id\" for model \"products\""}
+{"level":"error","message":"error al buscar producto en la db . CastError: Cast to ObjectId failed for value \"libro.jps\" (type string) at path \"_id\" for model \"products\""}
+{"level":"error","message":"Error al enviar mail de pedido. Error: No recipients defined"}
+{"level":"error","message":"error al actualizar producto en la db. CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"products\""}
+{"level":"error","message":"error al borrar producto en la db . CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"products\""}
+{"level":"error","message":"error al actualizar producto en la db. CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"products\""}
+{"level":"error","message":"error al borrar producto en la db . CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"products\""}
